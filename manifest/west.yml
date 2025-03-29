@@ -8,4 +8,4 @@ manifest:
       revision: v4.1.0
       import: true
   self:
-    path: application/manifest
+    path: application

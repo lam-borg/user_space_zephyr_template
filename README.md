@@ -28,4 +28,16 @@ pip install west
 
 ### initialize your zepyhr app
 
+go to the root folder of your app (the one containig this cloned repo) and execute
+```bash
+
+west init
+west update
+```
+
+### build your app
+
+follow the [getting started guide](https://docs.zephyrproject.org/latest/develop/getting_started/index.html)
+
+change to the application folder and run west build
 
